@@ -1,0 +1,15 @@
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.csproj.AssemblyReference.cache
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.AssemblyInfoInputs.cache
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.AssemblyInfo.cs
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.csproj.CoreCompileInputs.cache
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\bin\Debug\net7.0\4.Programm.exe
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\bin\Debug\net7.0\4.Programm.deps.json
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\bin\Debug\net7.0\4.Programm.runtimeconfig.json
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\bin\Debug\net7.0\4.Programm.dll
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\bin\Debug\net7.0\4.Programm.pdb
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.dll
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\refint\4.Programm.dll
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.pdb
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\4.Programm.genruntimeconfig.cache
+Z:\2023\BD\dz-itog\test\FinalTestSpec\4.Programm\obj\Debug\net7.0\ref\4.Programm.dll
